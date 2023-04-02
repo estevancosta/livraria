@@ -1,6 +1,7 @@
 # Livraria-Bookstore
 
 Projeto React de um portal de uma livraria utilizando React.
+
 O projeto original faz parte do curso da Alura React: comece seu projeto full stack.     
 
 # Getting Started with Create React App
