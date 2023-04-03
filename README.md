@@ -2,7 +2,9 @@
 
 Projeto React de um portal de uma livraria utilizando React.
 
-O projeto original faz parte do curso da Alura React: comece seu projeto full stack.     
+O projeto original faz parte do curso da Alura React: comece seu projeto full stack.
+
+Inicialmente é criada uma aplicação react padrão, ajustada para um leiaute de SPA de livraria, com busca de livros.
 
 # Getting Started with Create React App
 
